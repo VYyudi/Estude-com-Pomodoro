@@ -1,6 +1,6 @@
 # Estude com Pomodoro
 
-Sistema web para estudos utilizando o meotodo pomodoro 
+Sistema web para estudos utilizando o método pomodoro 
 
 ## 🚀 Tecnologias
 
